@@ -1,4 +1,4 @@
-### Letterboxd-Like Project
+# Letterboxd-Like Project
 
 ## Features
 **Homepage:**

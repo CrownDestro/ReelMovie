@@ -1,3 +1,5 @@
+###Letterboxd-Like Project
+
 ## Features
 **Homepage:**
   Stylish movie list with a right-side options menu (Sign in, Films, Members, Journal, About) and a visually appealing background image.

@@ -1,37 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##Tech Stack
+**Frontend:** Next.js with Tailwind CSS for styling.
+**Backend: ** Flask and REST APIs for robust data management.
+**Database: ** MongoDB Atlas for persistent review storage and retrieval.
 
 ## Getting Started
 
 First, run the development server:
 
+For Frontend which generally runs on localhost:3000
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+For Backend which generally runs on localhost:5000
+```bash
+python3 run.py
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Features
+**Homepage:**
+  Stylish movie list with a right-side options menu (Sign in, Films, Members, Journal, About) and a visually appealing background image.
+**Films Page:**
+  Movie posters displayed in an engaging layout.
+  
+  Review submission box with fields for movie name, review subject, and a 5-star rating system.**
+Dynamic Film Data: **
+  Users can click on movies to add reviews, which are saved and retrieved dynamically.
 

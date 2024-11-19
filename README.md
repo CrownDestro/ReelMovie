@@ -4,7 +4,7 @@
 
 
 **Films Page:**
-  Movie posters displayed in an engaging layout and Review submission box with fields for movie name, review subject, and a 5-star rating system.
+  Movie posters displayed in an engaging layout and Review submission box with fields for movie name and review subject.
 
 
 **Dynamic Film Data:**

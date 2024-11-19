@@ -1,10 +1,14 @@
 ## Features
 **Homepage:**
   Stylish movie list with a right-side options menu (Sign in, Films, Members, Journal, About) and a visually appealing background image.
+
+
 **Films Page:**
   Movie posters displayed in an engaging layout.
   
   Review submission box with fields for movie name, review subject, and a 5-star rating system.
+
+
 **Dynamic Film Data:**
   Users can click on movies to add reviews, which are saved and retrieved dynamically.
 

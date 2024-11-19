@@ -1,6 +1,9 @@
 ##Tech Stack
+
 **Frontend:** Next.js with Tailwind CSS for styling.
+
 **Backend: ** Flask and REST APIs for robust data management.
+
 **Database: ** MongoDB Atlas for persistent review storage and retrieval.
 
 ## Getting Started

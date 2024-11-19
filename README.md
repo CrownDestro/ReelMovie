@@ -25,8 +25,8 @@ python3 run.py
 ```
 For Integrating it to the Databse
 ```bash
-touch .exe //In the backend root folder
-// add the Mongo_URI there. 
+touch .exe
+// add the Mongo_URI in the .exe file. 
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

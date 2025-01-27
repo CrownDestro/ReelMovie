@@ -1,4 +1,4 @@
-# Letterboxd-Like Project
+# Movie Review Project
 
 This project is a movie review platform inspired by Letterboxd, designed for film enthusiasts to give reviews and discuss movies. 
 
